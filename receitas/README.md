@@ -3,3 +3,4 @@
 Livro de receita de frango
 
 - Listar receita de frango
+- Listar receita de pathê
